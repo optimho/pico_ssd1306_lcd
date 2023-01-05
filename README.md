@@ -1,25 +1,9 @@
 # pico_ssd1306
+This repository can be cloned directly with Clion.
+use the get from VCS option.
+use the      as the Github URL.
 
-make a build directory in the folder 
-edit the CmakeList.txt file, make sure that the pico-sdk is in the correct path.
+![image](https://user-images.githubusercontent.com/5043486/210718941-b25966b2-7882-4719-bbbe-ccd28c142d5a.png)
 
-cd into the build directory and run cmake ..
-that chould build with out a problem.
-If not check the cmake file for the correct paths
-
-also from with in the build directory 
-run the following in linux 
-
-    export PICO_SDK_PATH=~/pico/pico-sdk
-    
-then run 
-    
-    cmake ..
-    
-If that all builds then run 
-
-    make 
-    
-If that works you can try connect your editor to the project.
 
 

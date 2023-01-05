@@ -15,5 +15,5 @@ This should prompt you to configure the CMAKE Profile
 
 ![image](https://user-images.githubusercontent.com/5043486/210719748-29558407-0017-44d9-b133-976cccf4c1a3.png)
 
-for the location to the pico-sdk, use your own path the pico-sdk
+for the location to the pico-sdk, use your own path to the pico-sdk
 
